@@ -1,5 +1,6 @@
-flask==2.3.3
+flask
+gunicorn
 googletrans==4.0.0-rc1
-gTTS==2.3.2
 httpx==0.13.3
+gTTS
 legacy-cgi
